@@ -1,6 +1,6 @@
 Name:		texlive-xtuthesis
 Version:	47049
-Release:	1
+Release:	2
 Summary:	XTU thesis template
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xtuthesis
