@@ -3,7 +3,7 @@ Version:	47049
 Release:	2
 Summary:	XTU thesis template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xtuthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xtuthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xtuthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xtuthesis.doc.r%{version}.tar.xz
